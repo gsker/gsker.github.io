@@ -1,0 +1,18 @@
+/* Override Page layout */
+#sidebar{display: none;}
+.site-main{width:100%;}
+#footer-wrapper{ display: none;}
+
+/* black larger fonts */
+h1, h2, h3 {color: black;}
+body { color: black; font-size: large !important;
+line-height: 1.4}
+#page_content p {line-height: 1.4;}
+h3 { margin: 15px 0 0 ;
+font-weight: bold;}
+
+/* hopefully there won't be more tables on this tiny site */
+table tr td:nth-child(1) {
+    width: 10%;
+}
+

@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Chapel Strings</title>
+
+<link href="css/chapelstrings.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+	<div class="container shadow">
+   	  <div class="header"></div>
+       <div class="menu"><div id="navcontainer">
+<ul id="navlist">
+<li id="active"><a href="index.html" id="current">Home</a></li>
+<li><a href="schedule2.html">Schedule</a></li>
+<li><a href="history.html">History</a></li>
+<li><a href="links.html">Links</a>
+<li><a href="organization.html">Contact Us</a></li>
+</ul>
+</div>
+</div>
+
+<div class="content"> 
+	<h2>Welcome to <em>Chapel Strings</em></h2>
+	<p>&nbsp;</p>
+	<img src="images/jeremy.jpg" alt="conductor" width="200" height="300" hspace="50" align="right" /><br />
+
+	<p><strong>SPECIAL NOTE: May 21 Concert will be at The Alton Memory Care, 1306 Alton Street, St. Paul at 7:00 p.m.</strong></p>
+	<br />
+	<p><em><strong>Chapel Strings</strong></em> has been a part of the Twin Cities music scene for over 50 years. Currently composed of about 20 musicians (violins, violas, cellos, basses, 1 or 2 flutes, and piano), our repertoire consists of both classical and popular music selections.<br />
+	<br />
+	<strong><em>Chapel Strings</em></strong> meets from September through May, rehearsing Mondays from 6:45-8:30 p.m. at House of Hope Presbyterian Church, 797 Summit Ave., in St. Paul. Our<a href="schedule2.html"> current 2011-2012 performance schedule</a> includes approximately a dozen appearances each season at nursing homes and retirement centers in and around Saint Paul and Minneapolis. See our tentative <a href="schedule1213.html">2012-'13 schedule here</a>.<br />
+	<br />
+	<p>Interested in joining us? New members are always welcome! If you are a string player and would like further information, contact <a href="mailto:pegthomas@aol.com">Peg Thomas</a>. </p>
+	<br />
+	<br />
+	<br />
+	<br />
+	<br /><br />
+	</div><!--end content-->
+</body>
+</html>
